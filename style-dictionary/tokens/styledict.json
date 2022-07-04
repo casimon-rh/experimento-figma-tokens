@@ -1,0 +1,168 @@
+{
+  "CTA": {
+    "value": "#1464cc",
+    "type": "color",
+    "description": "úsalo cuando quieras resaltar un punto en toda una pantalla"
+  },
+  "Primary": {
+    "value": "#abcbf5",
+    "type": "color",
+    "description": "úsalo en todo lo que te propongas"
+  },
+  "Shade of gray": {
+    "value": "#c0d5f0",
+    "type": "color",
+    "description": "Cuando quieras realtar algún componente secundario utiliza este color como base"
+  },
+  "Background": {
+    "value": "#DBE2EC",
+    "type": "color",
+    "description": "úsalo como base de tu tarjeta"
+  },
+  "Text Default": {
+    "value": "#08254d",
+    "type": "color",
+    "description": "úsalo en los textos que requieran de neutralidar y proporcionar textura"
+  },
+  "H1": {
+    "fontFamily": {
+      "value": "EB Garamond",
+      "type": "fontFamily"
+    },
+    "fontWeight": {
+      "value": "ExtraBold",
+      "type": "fontWeight"
+    },
+    "lineHeight": {
+      "value": "98%",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": 52,
+      "type": "fontSize"
+    },
+    "letterSpacing": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "0%",
+      "type": "paragraphSpacing"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "Link": {
+    "fontFamily": {
+      "value": "Work Sans",
+      "type": "fontFamily"
+    },
+    "fontWeight": {
+      "value": "SemiBold",
+      "type": "fontWeight"
+    },
+    "lineHeight": {
+      "value": "Auto",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": 22,
+      "type": "fontSize"
+    },
+    "letterSpacing": {
+      "value": "1.6 px",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    },
+    "textDecoration": {
+      "value": "Underline",
+      "type": "textDecoration"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "H3": {
+    "fontFamily": {
+      "value": "Work Sans",
+      "type": "fontFamily"
+    },
+    "fontWeight": {
+      "value": "SemiBold",
+      "type": "fontWeight"
+    },
+    "lineHeight": {
+      "value": "Auto",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": 22,
+      "type": "fontSize"
+    },
+    "letterSpacing": {
+      "value": "1.6 px",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "Subtitle": {
+    "fontFamily": {
+      "value": "Work Sans",
+      "type": "fontFamily"
+    },
+    "fontWeight": {
+      "value": "Medium",
+      "type": "fontWeight"
+    },
+    "lineHeight": {
+      "value": "Auto",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": 22,
+      "type": "fontSize"
+    },
+    "letterSpacing": {
+      "value": "0.2 px",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": 0,
+      "type": "paragraphSpacing"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "textCase": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "Card": {
+    "value": "24px",
+    "type": "borderRadius",
+    "description": "Redondea tu tarjeta"
+  }
+}

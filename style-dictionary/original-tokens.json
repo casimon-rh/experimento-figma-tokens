@@ -1,0 +1,90 @@
+{
+  "global": {
+    "CTA": {
+      "value": "#1464cc",
+      "type": "color",
+      "description": "úsalo cuando quieras resaltar un punto en toda una pantalla"
+    },
+    "Primary": {
+      "value": "#abcbf5",
+      "type": "color",
+      "description": "úsalo en todo lo que te propongas"
+    },
+    "Shade of gray": {
+      "value": "#c0d5f0",
+      "type": "color",
+      "description": "Cuando quieras realtar algún componente secundario utiliza este color como base"
+    },
+    "Background": {
+      "value": "#DBE2EC",
+      "type": "color",
+      "description": "úsalo como base de tu tarjeta"
+    },
+    "Text Default": {
+      "value": "#08254d",
+      "type": "color",
+      "description": "úsalo en los textos que requieran de neutralidar y proporcionar textura"
+    },
+    "H1": {
+      "value": {
+        "fontFamily": "EB Garamond",
+        "fontWeight": "ExtraBold",
+        "lineHeight": "98%",
+        "fontSize": "52",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0%",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "Para titulos grandes y principales"
+    },
+    "Link": {
+      "value": {
+        "fontFamily": "Work Sans",
+        "fontWeight": "SemiBold",
+        "lineHeight": "Auto",
+        "fontSize": "22",
+        "letterSpacing": "1.6 px",
+        "paragraphSpacing": "0",
+        "textDecoration": "Underline",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "Usalo para cualquier texto que contenga un link"
+    },
+    "H3": {
+      "value": {
+        "fontFamily": "Work Sans",
+        "fontWeight": "SemiBold",
+        "lineHeight": "Auto",
+        "fontSize": "22",
+        "letterSpacing": "1.6 px",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "Úsalo en títulos de pequeñas secciones"
+    },
+    "Subtitle": {
+      "value": {
+        "fontFamily": "Work Sans",
+        "fontWeight": "Medium",
+        "lineHeight": "Auto",
+        "fontSize": "22",
+        "letterSpacing": "0.2 px",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "Texto para complementar una cabecera"
+    },
+    "Card": {
+      "value": "24px",
+      "type": "borderRadius",
+      "description": "Redondea tu tarjeta"
+    }
+  }
+}

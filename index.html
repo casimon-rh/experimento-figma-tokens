@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title>Card</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <link rel='stylesheet' type='text/css' media='screen' href='public/index.css'>
+  <style type="text/css">
+    body {
+      display: grid;
+      justify-items: center;
+      align-items: center;
+      width: 100vw;
+      height: 100vh;
+    }
+    .card {
+      width: 360px;
+      height: 640px;
+      display: grid;
+      grid-template-rows: 1fr 80px;
+    }
+    .complete {
+      display: grid;
+      grid-template-rows: 314px 50px 50px 60px 50px;
+      margin-left: 40px;
+      width: 250px;
+      margin-bottom: -80px
+    }
+    .icons {
+      display: grid;
+      grid-auto-flow: column;
+      grid-template-columns: 1fr 1fr 1fr;
+      width: 140px;
+    }
+    .avatar {
+      margin-top: 170px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="complete">
+      <img src="img/Avatar.png" class="avatar">
+      <p class="subtitle">Hello I am</p>
+      <h1>Idaly Ruiz</h1>
+      <h3>UX-UI Designer</h3>
+      <div class="icons">
+        <img src="img/github.png">
+        <img src="img/twitter.png">
+        <img src="img/in.png">
+      </div>
+    </div>
+    <div class="lets-talk">
+      <a href="#">Let's Talk!</a>
+    </div>
+  </div>
+</body>
+</html>

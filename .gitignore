@@ -1,0 +1,4 @@
+style-dictionary/build/*
+!style-dictionary/build/.gitinclude
+public/*
+!public/.gitinclude
